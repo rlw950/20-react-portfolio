@@ -4,7 +4,6 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Portfolio from './pages/Portfolio';
-import Footer from './Footer';
 
 function Port() {
   // Using useState, set the default value for currentPage to 'Home'

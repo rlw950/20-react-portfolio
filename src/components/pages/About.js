@@ -12,7 +12,7 @@ const About = () => {
             <br></br>
             <div className="my-2">
                 <p>
-                    I am enrolled and a student of BOOTCAMP: UCB-VIRT-BO-FSF-PT-06-2021-U-B-MW that is offered by UC Berkeley Extension.
+                    I am enrolled as a student of BOOTCAMP: UCB-VIRT-BO-FSF-PT-06-2021-U-B-MW that is offered by UC Berkeley Extension.
                 </p>
                 <p>
                     I enjoy learning new languages and applications.
